@@ -6,7 +6,7 @@ The MySQLScanner is a tool for scanning SQL servers and extracting banner inform
 
 MySQLScanner is compatible with both IPv4 and IPv6, and can be run on an interface supporting both (with mixed IPv4 and IPv6 input). 
 
-## Instalation
+## Installation
 
 ### Dependencies
 `mysqlscanner` uses go version `1.21+` and `gopacket` library which requires libpcap header files to be present. The header files and libpcap can be installed as follows:
